@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord to England touching their fastings· Sent in a letter, from a godly Christian to his private friend, to be presented to the publicke view of the magistrates, ministers, and people of this Kingdome.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96206</idno>
+            <idno type="STC">Wing W135</idno>
+            <idno type="STC">Thomason E422_36</idno>
+            <idno type="STC">ESTC R204818</idno>
+            <idno type="EEBO-CITATION">99864281</idno>
+            <idno type="PROQUEST">99864281</idno>
+            <idno type="VID">161402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161402)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord to England touching their fastings· Sent in a letter, from a godly Christian to his private friend, to be presented to the publicke view of the magistrates, ministers, and people of this Kingdome.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.W.</note>
+                  <note>Annotations on Thomason copy: "Jan: 17"; the "8" in imprint date has been crossed out and replaced with a "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Compassion --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Fasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161402:1" rendition="simple:additions"/>
+            <p>A Word to ENGLAND Touching their FASTINGS.</p>
+            <p>Sent in a Letter, from a godly Chriſti<g ref="char:EOLhyphen"/>an to his private Friend, to be preſented to the publike view of the Magiſtrates, Miniſters, and People of this Kingdome.</p>
+            <q>
+               <bibl>ISA. 58.5, 6, 7.</bibl>
+               <p>
+                  <hi>Is it ſuch a Faſt that I have choſen? a day for a man to afflict his ſoule? is it to bow down his head like a bulruſh?—wilt thou call this a faſt, and an aceeptable day to the Lord?</hi>
+               </p>
+               <p>
+                  <hi>Is not</hi> this the Faſt that I have choſen? <hi>to</hi> looſe the bands of wickedneſſe, <hi>to</hi> undoe the heavie burdens, <hi>to let the</hi> oppreſ<g ref="char:EOLhyphen"/>ſed go free, <hi>and that ye</hi> break every yoke?</p>
+               <p>
+                  <hi>Is it not to</hi> deale thy bread to the hungry? <hi>and that thou</hi> bring the poore that are caſt out to thy houſe? <hi>when thou ſeeſt the</hi> naked that thou cover him, <hi>and that thou hide not thy ſelf from</hi> thine owne fleſh?</p>
+            </q>
+            <p>
+               <hi>London:</hi> Printed by <hi>R. Auſtin.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161402:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:161402:2"/>
+            <head>A word to England touching their FASTINGS.</head>
+            <p>OH England! look upon the face of thy faſtings in Gods word. How is it, that having ſo plaine a word to direct thee, thou faſteſt ſo much in vaine? Doſt thou not yet ſee what the faſt is which God hath choſen? How it ſtands in <hi>eaſing</hi> all that are <hi>oppreſſed,</hi> and refreſhing ſuch as are di<g ref="char:EOLhyphen"/>ſtreſſed?</p>
+            <p>Doſt thou not ſee that it is <hi>Mercy</hi> that pleaſeth the Lord? that is the faſt that he hath choſen. Bring no more vaine<note n="*" place="margin">That is formes with<g ref="char:EOLhyphen"/>out the true worke of a faſt.</note> Oblations; but doe the worke of the faſt which God hath choſen.</p>
+            <p>Unty the bands of wickedneſſe; haſt thou, or thy fore-Fathers made any bands which cauſe wicked<g ref="char:EOLhyphen"/>neſſe? Looſe thoſe bands; are thou ſenſible of any burthens that lye heavy upon the neck of thy Brother? undoe thoſe burthens; ſeeſt thou thy Brother under oppreſſions: ſet him free. Break every yoke.</p>
+            <p>And having eaſed their ſhoulders of heavy preſ<g ref="char:EOLhyphen"/>ſures; then go on to refreſh ſuch as need thy refreſh<g ref="char:EOLhyphen"/>ments: Thy Brother is hungry, and thou haſt bread, give to him, and ſatisfie his hungry ſoule: Thy Bro<g ref="char:EOLhyphen"/>ther is caſt out, and thou haſt harbour, bring him to thy houſe; Thy Brother is naked, cover him.</p>
+            <p>Look upon the wants of thy Brother, that is, every one that ſtands in need of thee; goe not on the fur<g ref="char:EOLhyphen"/>ther
+<pb n="2" facs="tcp:161402:3"/>ſide to avoid the ſight of thy needy Brother, as the Prieſt and Levite did;<note place="margin">Luk. 10.31.32.</note> But looke on his needs, draw out thy ſoule to him, hide not thy ſelfe from him, for he is thine owne fleſh.<note place="margin">Act. 17.26, 27. Mal. 2.10.</note> We are all one off-ſpring, we have all one Father; one God hath created us.</p>
+            <p>Let the Magiſtrate do his part, take off the Lawes that lie heavy upon the Conſciences of men, as bands and yokes: and eaſe alſo the outward condition of all oppreſſed ones.</p>
+            <p>Let the great man of the earth doe his part, Ceaſe to grind the faces of the poore, by ſtraining all out of them that he can get.</p>
+            <p>Let the meane man ceaſe to interpoſe betweene the meaner man, and the greater; and ceaſe to ſit a greater Oppreſſour over the poore then the migh<g ref="char:EOLhyphen"/>ty, by inriching himſelfe, in enlarging the oppreſſi<g ref="char:EOLhyphen"/>ons of the mighty ones.</p>
+            <p>Let the Teacher doe his part,<note place="margin">Iſa. 51.20, 21.22, 23.</note> let him ceaſe to put the cup of affliction into the hands of the people; and let him declare the nailing up of the hand-writing of Ordinances upon the Croſſe,<note place="margin">Col. 2.14.</note> and the taking thereof out of the way:<note place="margin">Tit. 2.11. Luk. 2.10 14. Heb. 2.9. Col. 1.23. Iſa. 28.16. Rom. 9.33. Iohn 3.16. 2 Cor. 5.18, 19</note> Let him declare the perfect mercies of God in Chriſt to every creature: Let him declare the perfect ſacrifice of Jeſus Chriſt, and the ſure foun<g ref="char:EOLhyphen"/>dation that is laid in his death for every Creatures Faith: and let him declare Gods being in Chriſt; and not imouting of ſinne unto the world: Let him deale that bread that came downe from Heaven, to the hun<g ref="char:EOLhyphen"/>gry; let him bring the caſt-out ones, wanderers from Chriſt, unto Chriſt, our houſe and habitation; Let him endeavour to cover their nakedneſſe with his gar<g ref="char:EOLhyphen"/>ments; let them declare glad tidings to every creature,<note place="margin">Mar. 16.15. Mal. 2.10.</note> and no longer deale treacherouſly with their Brother,
+<pb n="3" facs="tcp:161402:3"/>by being partiall in the Covenant; for we have all one Father, and ſo ſhall he eaſe the oppreſſed, and refreſh the diſtreſſed in ſpirit.</p>
+            <p>Oh ye Magiſtrates, ye mighty men, ye meane men, ye Teachers of others, let theſe workes of mercy de<g ref="char:EOLhyphen"/>light you.</p>
+            <p>Oh ye inhabitants of England, thou noble Iſland, how would thy God bleſſe thee, and delight in thee, if once thou wert weaned from the multitude of thy vain imaginations, and wouldeſt follow his counſells.</p>
+            <p>If the worke of a right faſt were found in thee, (which is all mercifull dealing,<note place="margin">Iſa. 58.8, 9, 10, 11, 12.</note> a fruit of Gods mer<g ref="char:EOLhyphen"/>cifullneſſe to thee) then ſhould thy light breake forth as the morning, thine healing ſhould ſpring forth ſpeedily, thy righteouſneſſe ſhould go forth, the glory of the Lord ſhould be thy reward, thou ſhouldeſt call and the Lord would anſwer. The Lord will ſatisfie thy ſoule in drought, and make fat thy bones. Thou ſhouldeſt be like a watered Garden, and like a ſpring of water, whoſe waters faile not. And they that ſhall be of thee, ſhould build the old waſt places: Thou ſhouldeſt raiſe up the foundations of many ge<g ref="char:EOLhyphen"/>nerations, and thou ſhouldeſt be called the repairer of the breach, and the reſtorer of paths to dwell in.</p>
+            <p>But if you refuſe to obey the counſell of the Lord, then theſe things will come upon you.</p>
+            <p>Ye Magiſtrates ſhall be purged away as droſſe and tinne, that the Lord may be eaſed of you;<note place="margin">Iſa. 1.24, 25, 26, 27.</note> and others ſhall be reſtored, who ſhall redeeme Zion with judge<g ref="char:EOLhyphen"/>ment, and her Converts with Righteouſneſſe.</p>
+            <p>Ye mighty ones of the Earth,<note place="margin">Iſa. 5.15, 17. Iſa. 14.4.26.</note> and ye meane or mid<g ref="char:EOLhyphen"/>dle men, ſhall be brought downe, that the oppreſſion of the poore may ceaſe, and that the Earth may be ea<g ref="char:EOLhyphen"/>ſed
+<pb n="4" facs="tcp:161402:4"/>of you: for you are too heavy a burthen for it to beare much longer. And whereas your pride cauſeth you to oppreſſe, therefore will the Lord of hoſts ſtrike home at ſuch pride, and ſtaine all your glory, and bring all your earthly honourable into contempt, who ſeek honour of men,<note place="margin">Iſa. 23.9.</note> and would have their honour riſe up out of the Earth, and ſeek not honour of God onely.</p>
+            <p>Ye Teachers of others, if you will not lay it to heart, to give glory to the Name of the Lord, by ex<g ref="char:EOLhyphen"/>alting his free, and full, and faithfull mercies in his Sonne to every Creature, that ſo all men may ſee a ſure foundation for their Faith; Then heare this word, The Lord will make your ſolemne things as dung and dirt, and ſpread that dirt upon your faces, and one ſhall take you away with it. The Lord will make you baſe and contemptible before all the peo<g ref="char:EOLhyphen"/>ple, for being partiall in his Covenant of life and peace.<note place="margin">Mal. 2.1, 2, 3, 4, 5, 6, 7, 8, 9, 10.</note>
+            </p>
+            <pb n="5" facs="tcp:161402:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Heard that you were full of trouble in your ſpirit, and how it is with you now I know not, it is need<g ref="char:EOLhyphen"/>full it ſhould be ſo with us ſometimes, that our faith may be tried and exerciſed, and we may learne to give more heed to our comforting guide the Holy Spirit, and we may be kept ſtill comming unto that living ſtone the Lord our Saviour, from whom flowes all our clearneſſe of conſcience, and conſolations: and that we may be taught to keepe in memory what he hath done for us, How that he hath died for our ſins, according to the Scriptures; and even from hence a<g ref="char:EOLhyphen"/>riſeth our comfort, that Chriſt hath died for our ſins:<note place="margin">1 Cor. 11.2, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> he that underſtandeth and beleeveth this in faith, is comforted by it, and rejoyceth in the Lord; for thoſe plaine and ſimple tidings, are tidings of great joy, and therein have the Saints rejoyced together in former times, praiſing God that their ſins were not imputed, being laid on his Sonne Jeſus Chriſt, and that this Jeſus was riſen and aſcended, thereby giving aſſurance of a lively hope for us. Wherefore in the multitude of other affaires and notions, and knowledge, let not this be overlooked or forgotten (though it ſeeme a common or low notion, and be in the mouthes of ſuch as little underſtand it) That it is very truth, and there is no lie in it, that our Jeſus hath borne our ſinnes, and there is given into his hands eternall life for us, for this is tidings of great joy, which ſhall be to all people; and therefore it is to be preached to every creature, and where it hath been received, remember with what peace, and joy, and conſolation, and hope, it hath raiſed up the beleivers of it, as in Acts 2. it is recorded touching the great number that beleeved:
+<pb n="6" facs="tcp:161402:5"/>and in the ſixteenth Chapter, touching the Jailors be<g ref="char:EOLhyphen"/>lieving, he rejoyced in God, as alſo in other Scri<g ref="char:EOLhyphen"/>ptures.</p>
+                  <p>I have ſent you incloſed in this Letter a writing touching Englands Faſtings, you may peruſe it, and as you have opportunity, communicate it as you think it may be profitable: I commit it to you, and leave it to the ſucceſſe which God ſhall give it. I take my leave, and reſt,</p>
+                  <closer>
+                     <signed>Your loving friend and fellow-ſervant, <hi>T.W.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
